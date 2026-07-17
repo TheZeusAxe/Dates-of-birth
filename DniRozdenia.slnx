@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="dnirozdenia.client/dnirozdenia.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="DniRozdenia.Server/DniRozdenia.Server.csproj" />
+</Solution>
